@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BonusReport>
+  <GeneratedDate>2025-11-10T22:44:41.6160389+03:00</GeneratedDate>
+  <TotalTransactions>3</TotalTransactions>
+  <SuccessfulTransactions>3</SuccessfulTransactions>
+  <TotalBonusAmount>40.0050</TotalBonusAmount>
+  <Transactions>
+    <Transaction>
+      <CardNo>CARD123456</CardNo>
+      <Amount>1000.00</Amount>
+      <BonusAmount>10.0000</BonusAmount>
+      <Date>2025-11-10T22:44:35.6453565+03:00</Date>
+      <Status>Успешно</Status>
+    </Transaction>
+    <Transaction>
+      <CardNo>CARD789012</CardNo>
+      <Amount>2500.50</Amount>
+      <BonusAmount>25.0050</BonusAmount>
+      <Date>2025-11-10T22:44:35.6594171+03:00</Date>
+      <Status>Успешно</Status>
+    </Transaction>
+    <Transaction>
+      <CardNo>CARD345678</CardNo>
+      <Amount>500.00</Amount>
+      <BonusAmount>5.0000</BonusAmount>
+      <Date>2025-11-10T22:44:35.6933228+03:00</Date>
+      <Status>Успешно</Status>
+    </Transaction>
+  </Transactions>
+</BonusReport>

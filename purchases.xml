@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Purchases xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PurchaseData>
+    <CardNo>CARD123456</CardNo>
+    <Amount>1000.00</Amount>
+    <Date>2025-11-09T22:39:28.1393227+03:00</Date>
+  </PurchaseData>
+  <PurchaseData>
+    <CardNo>CARD789012</CardNo>
+    <Amount>2500.50</Amount>
+    <Date>2025-11-08T22:39:28.1394655+03:00</Date>
+  </PurchaseData>
+  <PurchaseData>
+    <CardNo>CARD345678</CardNo>
+    <Amount>500.00</Amount>
+    <Date>2025-11-07T22:39:28.1394665+03:00</Date>
+  </PurchaseData>
+  <PurchaseData>
+    <CardNo>CARD123456</CardNo>
+    <Amount>1000.00</Amount>
+    <Date>2025-11-09T22:39:28.1394669+03:00</Date>
+  </PurchaseData>
+</Purchases>
